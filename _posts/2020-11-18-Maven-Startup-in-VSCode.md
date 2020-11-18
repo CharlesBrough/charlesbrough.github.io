@@ -36,9 +36,10 @@ This dialog will pop up asking to select where the project will be generated:
 ### Step 5
 
 Now the rest of the setup is done through the VSCode console:
-I filled in each of the 4 fields and I’m about to submit the last one above.
 
 ![Screenie_5]({{ site.baseurl }}/images/maven-vscode-post/sc5.png)
+
+I filled in each of the 4 fields and I’m about to submit the last one above.
 
 ### Step 6
 
@@ -53,6 +54,8 @@ Here’s after build success:
 ![Screenie_7]({{ site.baseurl }}/images/maven-vscode-post/sc7.png)
 
 That’s a VSCode generated Maven Java project! Develop away.
+
+***
 
 Alternatives: using ‘mvn’ command in a shell to generate the project, or using another IDE.
 
