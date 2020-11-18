@@ -3,7 +3,7 @@ layout: post
 title: Using Maven to start a Project in VSCode
 ---
 
-# Starting a Maven Java project inside VSCode!
+# Maven + VSCode!
 
 ## Prerequisites
 
