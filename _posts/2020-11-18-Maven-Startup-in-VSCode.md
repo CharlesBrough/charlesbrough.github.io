@@ -54,6 +54,6 @@ Here’s after build success:
 
 That’s a VSCode generated Maven Java project! Develop away.
 
-Alternative to this method would be using the command line ‘mvn’ command to generate the project, or using another IDE.
+Alternatives: using ‘mvn’ command in a shell to generate the project, or using another IDE.
 
 This method creates a somewhat large default pom.xml which includes a lot of base plugins and two dependencies related to JUnit. Creating an empty Maven project in STS is a bit cleaner, in my opinion, but this is totally valid as well.
