@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a geek learning full-stack Java & React through Revature to become a Software Developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- Living in San Antonio, TX
+- Love videogames, web development, technology of all kinds
+- I have a beautiful cat
+- This Jekyll Now theme is customized to a dark theme based on the colors of the Midnight GitHub Jekyll theme
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[charles.brough2@gmail.com](mailto:charles.brough2@gmail.com)
