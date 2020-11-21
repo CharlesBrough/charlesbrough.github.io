@@ -19,6 +19,7 @@ To calculate the volume of this transition zone, we will first calculate the rad
 Earth's radius is measured to be 6378.137 km at the equator and 6356.752 km at the poles <sup>[3](##3.)</sup>, which has interesting implications, but that's not the point of this post/article! Let's just round it up to 6400 km since our transition mantle depths have 2 sig figs.
 
 6400-410 = 5990 km = radius of outer boundary
+
 6400-660 = 5740 km = radius of inner boundary
 
 To get the volume of this area, we will calculate the volume of the outer boundary and subtract the volume from the inner boundary.
@@ -26,6 +27,7 @@ To get the volume of this area, we will calculate the volume of the outer bounda
 V<sub>sphere</sub> = (4/3) * pi * r^3
 
 (5990 km ^ 3) * (4/3) * pi = ~9e11 or 900 billion km<sup>3</sup>
+
 (5740 km ^ 3) * (4/3) * pi = ~7.9e11 or 790 billion km<sup>3</sup>
 
 ~ V<sub>Mantle Transition Zone</sub> = 900 billion - 790 billion km<sup>3</sup> = 110 billion km<sup>3</sup>.
@@ -47,6 +49,7 @@ Fascinating stuff! There's slightly wet rocks in the mantle of earth's core that
 # Sources
 
 ## 1.
+
 ### Dehydration melting at the top of the lower mantle
 
 By Brandon Schmandt, Steven D. Jacobsen, Thorsten W. Becker, Zhenxian Liu, Kenneth G. Dueker
@@ -60,11 +63,13 @@ Downwelling of hydrous minerals may cause partial melting of Earth’s lower man
 [Full article available for download from ResearchGate!](https://www.researchgate.net/publication/263069116_Earth%27s_interior_Dehydration_melting_at_the_top_of_the_lower_mantle)
 
 ## 2.
+
 ### Volumes of the World's Oceans from ETOPO1
 
 [By NOAA.](https://web.archive.org/web/20150311032757/http://ngdc.noaa.gov/mgg/global/etopo1_ocean_volumes.html)
 
 ## 3.
+
 ### Earth Fact Sheet
 
 [By NASA, credited to Dr. David R. Williams](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)
