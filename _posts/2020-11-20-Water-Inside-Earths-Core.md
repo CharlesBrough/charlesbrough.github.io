@@ -8,7 +8,7 @@ Mostly true. There's lots going on under the crusty surface of Earth that we can
 
 ### So, what can we say about these new findings?
 
-The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to some mineral physics at those pressures and temperatures. They also call the particular material, this "wet-rock" stuff, "ringwoodite". I thought that was a very strange name, kind of cool, but not what I'd expect. I suppose it's a mineral that was discovered on the surface long ago, some combination of molten rock and water that produces a ring-like pattern akin to when you chop down a tree and see its rings inside. Just my guess. Another form of this water-containing mineral deep in the core is called "wadsleyite". These minerals can hold about 1-3% of their weight as water.<sup>[1](#1)</sup>
+The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to some mineral physics at those pressures and temperatures. They also call the particular material, this "wet-rock" stuff, "ringwoodite". Another form of this water-containing mineral deep in the core is called "wadsleyite". These minerals can hold about 1-3% of their weight as water.<sup>[1](#1)</sup>
 
 So, assuming the entire mantle transition zone is composed of these minerals, and they can possibly contain about 2% water, let's try and estimate the volume of the water below the surface!
 
