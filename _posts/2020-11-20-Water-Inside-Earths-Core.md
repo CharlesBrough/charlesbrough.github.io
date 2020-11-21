@@ -44,7 +44,7 @@ Earth itself has a volume of 1,083,210,000,000 km<sup>3</sup>, or 1083.21 billio
 
 ### Well that's weird!
 
-Fascinating stuff! There's slightly wet rocks in the mantle of earth's core that contain huge ammounts of trapped water. There are theories that this is the origin of all of the water on Earth's surface today. Other theories posit that a massive water-containing extraterrestrial object collided with Earth and deposited all of this water, or potentially water-containing minerals that eventually sept out onto the surface. I can imagine an absolutely gigantic ice comet colliding with Earth and leaving behind a huge deposit of water that would inevitably be fused with some rock.
+Fascinating stuff! There's slightly wet rocks in the mantle of earth's core that contain huge amounts of trapped water. There are theories that this is the origin of all of the water on Earth's surface today. Other theories posit that a massive water-containing extraterrestrial object collided with Earth and deposited all of this water, or potentially water-containing minerals that eventually sept out onto the surface. I can imagine an absolutely gigantic ice comet colliding with Earth and leaving behind a huge deposit of water that would inevitably be fused with some rock.
 
 # Sources
 
