@@ -8,7 +8,7 @@ Mostly true. There's lots going on under the crusty surface of Earth that we can
 
 ### So, what can we say about these new findings?
 
-The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to some mineral physics at those pressures and temperatures. They also call the particular material, this "wet-rock" stuff, "ringwoodite". I thought that was a very strange name, kind of cool, but not what I'd expect. I suppose it's a mineral that was discovered on the surface long ago, some combination of molten rock and water that produces a ring-like pattern akin to when you chop down a tree and see its rings inside. Just my guess. Another form of this water-containing mineral deep in the core is called "wadsleyite". These minerals can hold about 1-3% of their weight as water. <sup>[1](#1.)</sup>
+The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to some mineral physics at those pressures and temperatures. They also call the particular material, this "wet-rock" stuff, "ringwoodite". I thought that was a very strange name, kind of cool, but not what I'd expect. I suppose it's a mineral that was discovered on the surface long ago, some combination of molten rock and water that produces a ring-like pattern akin to when you chop down a tree and see its rings inside. Just my guess. Another form of this water-containing mineral deep in the core is called "wadsleyite". These minerals can hold about 1-3% of their weight as water. <sup>[1](#1)</sup>
 
 So, assuming the entire mantle transition zone is composed of these minerals, and they can possibly contain about 2% water, let's try and estimate the volume of the water below the surface!
 
@@ -16,7 +16,7 @@ So, assuming the entire mantle transition zone is composed of these minerals, an
 
 To calculate the volume of this transition zone, we will first calculate the radii of the depths of the boundaries of the transition zone.
 
-Earth's radius is measured to be 6378.137 km at the equator and 6356.752 km at the poles <sup>[3](#3.)</sup>, which has interesting implications, but that's not the point of this post/article! Let's just round it up to 6400 km since our transition mantle depths have 2 sig figs.
+Earth's radius is measured to be 6378.137 km at the equator and 6356.752 km at the poles <sup>[3](#3)</sup>, which has interesting implications, but that's not the point of this post/article! Let's just round it up to 6400 km since our transition mantle depths have 2 sig figs.
 
 6400-410 = 5990 km = radius of outer boundary
 
@@ -36,11 +36,11 @@ V<sub>sphere</sub> = (4/3) * pi * r^3
 
 Wow! That's a LOT of water. Let's compare it to the volume of the ocean!
 
-Earth's oceans, on the surface, have an approximate volume of 1,335,000,000 km<sup>3</sup>, or ~1.3 billion cubic kilometers. <sup>[2](#2.)</sup>
+Earth's oceans, on the surface, have an approximate volume of 1,335,000,000 km<sup>3</sup>, or ~1.3 billion cubic kilometers. <sup>[2](#2)</sup>
 
 That means that there's potentially double the amount of water in Earth's oceans trapped underneath the surface in the mantle! That's wild!
 
-Earth itself has a volume of 1,083,210,000,000 km<sup>3</sup>, or 1083.21 billion cubic kilometers. <sup>[3](#3.)</sup> That's immense! Several orders of magnitude more than the volume of the ocean, or the volume of water trapped in the mantle.
+Earth itself has a volume of 1,083,210,000,000 km<sup>3</sup>, or 1083.21 billion cubic kilometers. <sup>[3](#3)</sup> That's immense! Several orders of magnitude more than the volume of the ocean, or the volume of water trapped in the mantle.
 
 ### Well that's weird!
 
