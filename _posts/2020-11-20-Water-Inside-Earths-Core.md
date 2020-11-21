@@ -8,7 +8,7 @@ Mostly true. There's lots going on under the crusty surface of Earth that we can
 
 ### So, what can we say about these new findings?
 
-The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to some mineral physics at those pressures and temperatures. They also call the particular material, this "wet-rock" stuff, "[ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)". Another water-containing mineral deep in the core is called "[wadsleyite](https://en.wikipedia.org/wiki/Wadsleyite)". These minerals can hold about 1-3% of their weight as water.<sup>[1](#1)</sup>
+The paper has concluded that the Mantle Transition Zone, which is approximately between the depths of 410 and 660km below the surface of Earth, acts as a large water reservoir due to mineral physics at pressures and temperatures present in the Earth's mantle. They also call the particular material containing the water, this "wet-rock" stuff, "[ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)". Another water-containing mineral in the core is called "[wadsleyite](https://en.wikipedia.org/wiki/Wadsleyite)". These minerals can hold about 1-3% of their weight as water.<sup>[1](#1)</sup>
 
 So, assuming the entire mantle transition zone is composed of these minerals, and they can possibly contain about 2% water, let's try and estimate the volume of the water below the surface!
 
@@ -38,9 +38,9 @@ Wow! That's a LOT of water. Let's compare it to the volume of the ocean!
 
 Earth's oceans, on the surface, have an approximate volume of 1,335,000,000 km<sup>3</sup>, or ~1.3 billion cubic kilometers.<sup>[2](#2)</sup>
 
-That means that there's potentially double the amount of water in Earth's oceans trapped underneath the surface in the mantle! That's wild!
+That means that there's potentially double the amount of water in Earth's oceans trapped underneath the surface in the mantle! That's wild! This lines up with [the Wikipedia article on ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite), which says that 1-3 volumes worth of Earth's oceans could be trapped in these minerals inside Earth's mantle.
 
-Earth itself has a volume of 1,083,210,000,000 km<sup>3</sup>, or 1083.21 billion cubic kilometers.<sup>[3](#3)</sup> That's immense! Several orders of magnitude more than the volume of the ocean, or the volume of water trapped in the mantle.
+Something else to consider: Earth itself has a volume of 1,083,210,000,000 km<sup>3</sup>, or 1,083.21 billion cubic kilometers.<sup>[3](#3)</sup> That's immense! Several orders of magnitude more than the volume of the ocean, or the volume of water trapped in the mantle.
 
 ### Well that's weird!
 
