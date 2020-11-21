@@ -24,11 +24,11 @@ Earth's radius is measured to be 6378.137 km at the equator and 6356.752 km at t
 
 To get the volume of this area, we will calculate the volume of the outer boundary and subtract the volume from the inner boundary.
 
-V<sub>sphere</sub> = (4/3) * pi * r^3
+V<sub>sphere</sub> = (4/3) * pi * r<sup>3</sup>
 
-(5990 km ^ 3) * (4/3) * pi = ~9e11 or 900 billion km<sup>3</sup>
+(5990 km)<sup>3</sup> * (4/3) * pi = ~9e11 or 900 billion km<sup>3</sup>
 
-(5740 km ^ 3) * (4/3) * pi = ~7.9e11 or 790 billion km<sup>3</sup>
+(5740 km)<sup>3</sup> * (4/3) * pi = ~7.9e11 or 790 billion km<sup>3</sup>
 
 ~ V<sub>Mantle Transition Zone</sub> = 900 billion - 790 billion km<sup>3</sup> = 110 billion km<sup>3</sup>.
 
