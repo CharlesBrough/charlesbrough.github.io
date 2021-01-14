@@ -6,6 +6,8 @@
 
 ### Individual docs
 
+[Firebog Blocking Lists](https://firebog.net/)
+
 [Pi-hole docs](https://docs.pi-hole.net/)
 
 [WireGuard docs](https://www.wireguard.com/quickstart/)
